@@ -1,0 +1,2 @@
+E:\Projects\Snake\TopDown\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\Definitions.TopDownShooter.h
+E:\Projects\Snake\TopDown\TopDownShooter\Source\TopDownShooter\TopDownShooter.h

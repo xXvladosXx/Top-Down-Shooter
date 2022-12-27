@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TopDownShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B2942EBC-4FED-447D-8DC5-96825D6A7B8B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TopDownShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TopDownShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D2F25458-53B8-42FB-9CA4-1D08AAEF7725}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TopDownShooter">
+      <UniqueIdentifier>{EDF38E99-7893-4444-8CCC-61B18A8F0C4E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TopDownShooter\TopDownShooter.Build.cs">
+      <Filter>Source\TopDownShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TopDownShooter\TopDownShooter.cpp">
+      <Filter>Source\TopDownShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownShooter\TopDownShooter.h">
+      <Filter>Source\TopDownShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopDownShooter\TopDownShooterCharacter.cpp">
+      <Filter>Source\TopDownShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownShooter\TopDownShooterCharacter.h">
+      <Filter>Source\TopDownShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopDownShooter\TopDownShooterGameMode.cpp">
+      <Filter>Source\TopDownShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownShooter\TopDownShooterGameMode.h">
+      <Filter>Source\TopDownShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TopDownShooter\TopDownShooterPlayerController.cpp">
+      <Filter>Source\TopDownShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TopDownShooter\TopDownShooterPlayerController.h">
+      <Filter>Source\TopDownShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
