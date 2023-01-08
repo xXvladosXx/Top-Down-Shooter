@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "TopDownShooter",
-			"Path": "E:\\Projects\\Snake\\Snake\\TopDownShooter\\Source\\TopDownShooter.Target.cs",
+			"Path": "E:\\Projects\\Snake\\TopDown\\Top-Down-Shooter\\TopDownShooter\\Source\\TopDownShooter.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "TopDownShooterEditor",
-			"Path": "E:\\Projects\\Snake\\Snake\\TopDownShooter\\Source\\TopDownShooterEditor.Target.cs",
+			"Path": "E:\\Projects\\Snake\\TopDown\\Top-Down-Shooter\\TopDownShooter\\Source\\TopDownShooterEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

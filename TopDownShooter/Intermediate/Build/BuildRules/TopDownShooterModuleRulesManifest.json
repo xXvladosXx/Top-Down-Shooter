@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\Projects\\Snake\\TopDown\\TopDownShooter\\Source\\TopDownShooter\\TopDownShooter.Build.cs",
-		"E:\\Projects\\Snake\\TopDown\\TopDownShooter\\Source\\TopDownShooter.Target.cs",
-		"E:\\Projects\\Snake\\TopDown\\TopDownShooter\\Source\\TopDownShooterEditor.Target.cs"
+		"E:\\Projects\\Snake\\TopDown\\Top-Down-Shooter\\TopDownShooter\\Source\\TopDownShooter\\TopDownShooter.Build.cs",
+		"E:\\Projects\\Snake\\TopDown\\Top-Down-Shooter\\TopDownShooter\\Source\\TopDownShooter.Target.cs",
+		"E:\\Projects\\Snake\\TopDown\\Top-Down-Shooter\\TopDownShooter\\Source\\TopDownShooterEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

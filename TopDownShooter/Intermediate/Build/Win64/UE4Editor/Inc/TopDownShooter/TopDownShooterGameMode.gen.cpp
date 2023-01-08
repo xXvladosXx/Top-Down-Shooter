@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "TopDownShooter/TopDownShooterGameMode.h"
+#include "TopDownShooter/Game/TopDownShooterGameMode.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -41,8 +41,8 @@ void EmptyLinkFunctionForGeneratedCodeTopDownShooterGameMode() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ATopDownShooterGameMode_Statics::Class_MetaDataParams[] = {
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
-		{ "IncludePath", "TopDownShooterGameMode.h" },
-		{ "ModuleRelativePath", "TopDownShooterGameMode.h" },
+		{ "IncludePath", "Game/TopDownShooterGameMode.h" },
+		{ "ModuleRelativePath", "Game/TopDownShooterGameMode.h" },
 		{ "ShowCategories", "Input|MouseInput Input|TouchInput" },
 	};
 #endif
@@ -73,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeTopDownShooterGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ATopDownShooterGameMode, 3988910653);
+	IMPLEMENT_CLASS(ATopDownShooterGameMode, 1201575130);
 	template<> TOPDOWNSHOOTER_API UClass* StaticClass<ATopDownShooterGameMode>()
 	{
 		return ATopDownShooterGameMode::StaticClass();

@@ -1,9 +1,9 @@
-E:\Projects\Snake\TopDown\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\Definitions.TopDownShooter.h
+E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\Definitions.TopDownShooter.h
 E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-E:\Projects\Snake\TopDown\TopDownShooter\Source\TopDownShooter/TopDownShooterGameMode.h
+E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Source\TopDownShooter/Game/TopDownShooterGameMode.h
 E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-E:\Projects\Snake\TopDown\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Inc\TopDownShooter\TopDownShooterGameMode.generated.h
+E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Inc\TopDownShooter\TopDownShooterGameMode.generated.h

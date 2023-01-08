@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I E:\Projects\Snake\TopDown\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Inc\TopDownShooter
-/I E:\Projects\Snake\TopDown\TopDownShooter\Source
+/I E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Inc\TopDownShooter
+/I E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"E:\Projects\Snake\TopDown\TopDownShooter\Intermediate\Build\Win64\TopDownShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\Projects\Snake\TopDown\TopDownShooter\Intermediate\Build\Win64\TopDownShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\Projects\Snake\TopDown\TopDownShooter\Intermediate\Build\Win64\TopDownShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"E:\Projects\Snake\TopDown\TopDownShooter\Source\TopDownShooter\TopDownShooterCharacter.cpp"
-/FI"E:\Projects\Snake\TopDown\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\Definitions.TopDownShooter.h"
-/Fo"E:\Projects\Snake\TopDown\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\TopDownShooterCharacter.cpp.obj"
+/FI"E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Intermediate\Build\Win64\TopDownShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Intermediate\Build\Win64\TopDownShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Intermediate\Build\Win64\TopDownShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Source\TopDownShooter\Character\TopDownShooterCharacter.cpp"
+/FI"E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\Definitions.TopDownShooter.h"
+/Fo"E:\Projects\Snake\TopDown\Top-Down-Shooter\TopDownShooter\Intermediate\Build\Win64\UE4Editor\Development\TopDownShooter\TopDownShooterCharacter.cpp.obj"
 /TP
 /GR-
 /W4

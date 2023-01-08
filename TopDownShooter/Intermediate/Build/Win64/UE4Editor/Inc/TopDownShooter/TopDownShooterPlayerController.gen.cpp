@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "TopDownShooter/TopDownShooterPlayerController.h"
+#include "TopDownShooter/Game/TopDownShooterPlayerController.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -41,8 +41,8 @@ void EmptyLinkFunctionForGeneratedCodeTopDownShooterPlayerController() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ATopDownShooterPlayerController_Statics::Class_MetaDataParams[] = {
 		{ "HideCategories", "Collision Rendering Utilities|Transformation" },
-		{ "IncludePath", "TopDownShooterPlayerController.h" },
-		{ "ModuleRelativePath", "TopDownShooterPlayerController.h" },
+		{ "IncludePath", "Game/TopDownShooterPlayerController.h" },
+		{ "ModuleRelativePath", "Game/TopDownShooterPlayerController.h" },
 	};
 #endif
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ATopDownShooterPlayerController_Statics::StaticCppClassTypeInfo = {
@@ -72,7 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeTopDownShooterPlayerController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ATopDownShooterPlayerController, 3908696260);
+	IMPLEMENT_CLASS(ATopDownShooterPlayerController, 2046806326);
 	template<> TOPDOWNSHOOTER_API UClass* StaticClass<ATopDownShooterPlayerController>()
 	{
 		return ATopDownShooterPlayerController::StaticClass();
